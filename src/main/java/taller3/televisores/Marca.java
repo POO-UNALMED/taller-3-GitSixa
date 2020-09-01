@@ -4,7 +4,7 @@ public class Marca {
 	
 	// ATRIBUTOS
 	
-	String nombre;
+	private String nombre;
 	
 	
 	// MÉTODO CONSTRUCTOR
